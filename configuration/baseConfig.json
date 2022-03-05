@@ -1,0 +1,17 @@
+{
+  "parse": {
+    "ParseList":        "/home/wizard/Документы/epos_v3_workspace/parseList.txt",
+    "ParseListUrl":     "",
+    "ParseLimit":       0,
+    "ParseTarget":      "/home/wizard/Документы/epos_v3_workspace/",
+    "ResultListTarget": "/home/wizard/Документы/epos_v3_workspace/",
+    "SubFolders":       false
+  },
+  "db": {
+    "DbPath":           "",
+    "SaveToDb":         false
+  },
+  "LogPath":          "/home/wizard/Документы/epos_v3_workspace/logs/",
+  "ProcessPoolSize":  4,
+  "SaveToZim":        true
+}

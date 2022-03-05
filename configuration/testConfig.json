@@ -1,0 +1,17 @@
+{
+  "parse": {
+    "ParseList":            "/testPath",
+    "ParseListUrl":         "/testURL",
+    "ParseLimit":           0,
+    "ParseTarget":          "/testPath",
+    "ResultListTarget":     "/home/wizard/Документы/epos_v3_workspace/",
+    "SubFolders":           false
+  },
+  "db": {
+    "DbPath":               "/testPath",
+    "SaveToDb":             false
+  },
+  "LogPath":              "/testPath",
+  "ProcessPoolSize":      1,
+  "SaveToZim":            true
+}
